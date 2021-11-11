@@ -1,0 +1,17 @@
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\Suja-FusionAPI.exe.config
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\Suja-FusionAPI.exe
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\Suja-FusionAPI.pdb
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.csprojAssemblyReference.cache
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja_FusionAPI.Properties.Resources.resources
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.csproj.GenerateResource.cache
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.exe
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.pdb
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja_FusionAPI.MainWindow.resources
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\FusionAPI.dll
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja_FusionAPI.Login.resources
+C:\Users\Ghost\source\repos\Suja-FusionAPI\Suja-FusionAPI\obj\Debug\Suja-FusionAPI.csproj.CopyComplete

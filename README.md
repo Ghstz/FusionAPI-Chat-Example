@@ -1,2 +1,2 @@
 # FusionAPI-Chat-Example
-This is an unoffical FusionAPI chat example made in c#
+This is an unofficial FusionAPI chat example made in c# 
